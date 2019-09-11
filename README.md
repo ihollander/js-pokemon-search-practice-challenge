@@ -80,7 +80,7 @@ When you refresh the page, the pokemon should display the correct sprite based o
 
 #### Step 4: Search Pokemon by Name
 ---
-We'd like an easy way to search our list of pokemon. When a user types in the `#pokemon-search-input` field, the list of pokemon cards should be updated so it only shows pokemon whose names match the text in the input field. 
+We'd like an easy way to search our list of pokemon. When a user types in the `#pokemon-search-input` field, the list of pokemon cards should be updated to only shows pokemon whose names match the text in the input field. 
 
 You should include pokemon whose names are *not* exact matches (for example, if a user types in *char*, the cards for charmander, charmeleon and charizard should all be displayed. 
 
