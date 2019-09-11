@@ -1,9 +1,9 @@
 # JS Pokemon Search Assignment
 
-Hello, your assignment today is to re-create the functionality of our Pokemon search engine
+Hello, your assignment today is to re-create the functionality of our Pokemon search engine:
 ![demo](images/pokemon-search.gif).
 
-- A user should be able to search for a Pokemon and see all Pokemon whose names match the search term 
+- A user should be able to search for a Pokemon and see all Pokemon whose names match the search term.
 - A user should be able to click a Pokemon card to see its alternate sprite.
 
 ---
@@ -42,7 +42,7 @@ Take a look at `/style.css` if you're curious about how this app is styled. Appl
 
 #### Step 2: Flip a Pokemon (frontend)
 ---
-When a user clicks on the image of a pokemon, it should toggle the image between the front sprite and the back sprite. Have a look at the JSON objects returned for each pokemon: they each have a "sprites" key with image links for their front and back url, as well as a "flipped" key indicating if the back or front should be displayed.
+When a user clicks on the image of a pokemon, it should toggle the image between the front sprite and the back sprite. Have a look at the objects returned for each pokemon: they each have a "sprites" key with image links for their front and back url, as well as a "flipped" key indicating if the back or front should be displayed.
 
 ```json
 {
